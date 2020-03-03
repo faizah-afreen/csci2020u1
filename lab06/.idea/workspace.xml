@@ -26,7 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab07" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,6 +46,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1583241028819" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1583262505798">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583262505798" />
     <state x="65" y="0" key="new project wizard" timestamp="1583262447336">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
