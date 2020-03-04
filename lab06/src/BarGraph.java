@@ -6,7 +6,7 @@ import javafx.scene.chart.XYChart;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-public class Graphics extends Application
+public class BarGraph extends Application
 {
     @Override
     public void start(Stage primaryStage) throws Exception
