@@ -91,6 +91,12 @@ public class Registration extends Application
         Button btAdd = new Button("Register");
         pane.add(btAdd, 1,6);
         GridPane.setHalignment(btAdd, HPos.LEFT);
+        btAdd.setOnAction(e -> {
+            System.out.println(nameInput);
+            System.out.println(emailInput);
+            System.out.println(phoneInput);
+            System.out.println(dateInput);
+        });
 
         Scene scene = new Scene(pane);
         primaryStage.setScene(scene);

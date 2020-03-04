@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b41d2a5f-b55d-4e4a-8bcf-6684c015c1f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../lab04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab04/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab05/StudentRecord.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab05/StudentRecord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StudentRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudentRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab06/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab07/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab06" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Application.DataSource">
     <configuration name="DataSource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -78,22 +78,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1582823775489" />
-    <state width="1238" height="116" key="GridCell.Tab.0.bottom" timestamp="1582839655317">
+    <state width="1238" height="116" key="GridCell.Tab.0.bottom" timestamp="1583263042700">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1238" height="116" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582839655317" />
-    <state width="1238" height="116" key="GridCell.Tab.0.center" timestamp="1582839655317">
+    <state width="1238" height="116" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583263042700" />
+    <state width="1238" height="116" key="GridCell.Tab.0.center" timestamp="1583263042700">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1238" height="116" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582839655317" />
-    <state width="1238" height="116" key="GridCell.Tab.0.left" timestamp="1582839655317">
+    <state width="1238" height="116" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583263042700" />
+    <state width="1238" height="116" key="GridCell.Tab.0.left" timestamp="1583263042700">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1238" height="116" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582839655317" />
-    <state width="1238" height="116" key="GridCell.Tab.0.right" timestamp="1582839655317">
+    <state width="1238" height="116" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583263042700" />
+    <state width="1238" height="116" key="GridCell.Tab.0.right" timestamp="1583263042700">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1238" height="116" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582839655317" />
+    <state width="1238" height="116" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583263042700" />
     <state x="65" y="0" key="new project wizard" timestamp="1582823742223">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

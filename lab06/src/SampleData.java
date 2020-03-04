@@ -14,4 +14,5 @@ public class SampleData
     private static int[] purchasesByAgeGroup = { 648, 1021, 2453, 3173, 1868, 2247 };
     private static Color[] pieColours = {
             Color.AQUA, Color.GOLD, Color.DARKORANGE, Color.DARKSALMON, Color.LAWNGREEN, Color.PLUM };
+
 }
