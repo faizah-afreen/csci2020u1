@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20f5552f-ffb5-420b-997c-1df86e59d346" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BarGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PieChart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Testing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab06/Graphics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab06/Testing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PieChart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PieChart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SampleData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SampleData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +33,25 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab04" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/University/Year 2/Sem 2 2020/Software Development/FileIO" />
   </component>
-  <component name="RunManager" selected="Application.Testing">
+  <component name="RunManager" selected="Application.PieChart">
+    <configuration name="BarGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BarGraph" />
+      <module name="lab06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Graphics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Graphics" />
+      <module name="lab06" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PieChart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PieChart" />
       <module name="lab06" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -51,6 +66,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PieChart" />
+        <item itemvalue="Application.BarGraph" />
         <item itemvalue="Application.Testing" />
         <item itemvalue="Application.Graphics" />
       </list>
@@ -74,29 +91,29 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="49" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1583241028819" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1583262720322">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1583354384241">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583262720322" />
-    <state width="1238" height="78" key="GridCell.Tab.0.bottom" timestamp="1583327693241">
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1583354384241" />
+    <state width="1238" height="60" key="GridCell.Tab.0.bottom" timestamp="1583358262264">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1238" height="78" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583327693241" />
-    <state width="1238" height="78" key="GridCell.Tab.0.center" timestamp="1583327693241">
+    <state width="1238" height="60" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583358262264" />
+    <state width="1238" height="60" key="GridCell.Tab.0.center" timestamp="1583358262264">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1238" height="78" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583327693241" />
-    <state width="1238" height="78" key="GridCell.Tab.0.left" timestamp="1583327693241">
+    <state width="1238" height="60" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583358262264" />
+    <state width="1238" height="60" key="GridCell.Tab.0.left" timestamp="1583358262264">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1238" height="78" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583327693241" />
-    <state width="1238" height="78" key="GridCell.Tab.0.right" timestamp="1583327693241">
+    <state width="1238" height="60" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583358262264" />
+    <state width="1238" height="60" key="GridCell.Tab.0.right" timestamp="1583358262264">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1238" height="78" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583327693241" />
-    <state x="65" y="0" key="new project wizard" timestamp="1583262447336">
+    <state width="1238" height="60" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583358262264" />
+    <state x="65" y="0" key="new project wizard" timestamp="1583357688399">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="65" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1583262447336" />
+    <state x="65" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1583357688399" />
   </component>
 </project>

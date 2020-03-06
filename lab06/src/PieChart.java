@@ -7,21 +7,23 @@ import javafx.scene.paint.Color;
 import javafx.scene.layout.Pane;
 import javafx.scene.text.Text;
 
-public class PieChart extends Application {
+public class PieChart extends Application
+{
     @Override
-    public void start(Stage primaryStage) {
+    public void start(Stage primaryStage)
+    {
         Pane pane = new Pane();
 
         int[] purchasesByAgeGroup = { 648, 1021, 2453, 3173, 1868, 2247 };
 
         String[] ageGroups = { "18-25", "26-35", "36-45", "46-55", "56-65", "65+" };
 
-        Text t1 = new Text(110, 80,  ageGroups[0] + " -- " + purchasesByAgeGroup[0]);
-        Text t2 = new Text(80, 15,   ageGroups[1] + " -- " + purchasesByAgeGroup[1]);
-        Text t3 = new Text(5, 100,   ageGroups[2] + " -- " + purchasesByAgeGroup[2]);
-        Text t4 = new Text(100, 180, ageGroups[3] + " -- " + purchasesByAgeGroup[3]);
-        Text t5 = new Text(120, 100, ageGroups[4] + " -- " + purchasesByAgeGroup[4]);
-        Text t6 = new Text(60, 90, ageGroups[5] + " -- " + purchasesByAgeGroup[5]);
+        Text t1 = new Text(110, 80,  ageGroups[0] + " (" + purchasesByAgeGroup[0] + ")");
+        Text t2 = new Text(80, 15,   ageGroups[1] + " (" + purchasesByAgeGroup[1] + ")");
+        Text t3 = new Text(5, 100,   ageGroups[2] + " (" + purchasesByAgeGroup[2] + ")");
+        Text t4 = new Text(100, 180, ageGroups[3] + " (" + purchasesByAgeGroup[3] + ")");
+        Text t5 = new Text(120, 100, ageGroups[4] + " (" + purchasesByAgeGroup[4] + ")");
+        Text t6 = new Text(60, 90, ageGroups[5] + " (" + purchasesByAgeGroup[5] + ")");
 
         Arc arc1 = new Arc(100, 100, 80, 80, 0, 360 * (purchasesByAgeGroup[0] / 100));
         arc1.setFill(Color.AQUA);
